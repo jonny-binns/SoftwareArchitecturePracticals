@@ -32,7 +32,7 @@ public interface StudentInterface extends Remote {
 	 * @param matric the new student matric number
 	 * @throws RemoteException thrown if problem with the RMI
 	 */
-	public String setMatric(String metric) throws RemoteException;
+	public void setMatric(String metric) throws RemoteException;
 	
 	/**
 	 * Gets the student programme 
