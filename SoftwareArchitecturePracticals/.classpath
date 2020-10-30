@@ -6,6 +6,5 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/jonny/Documents/GitHub/SoftwareArchitecturePracticals/SoftwareArchitecturePracticals/FreePastry-2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
